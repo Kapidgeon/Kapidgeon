@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kapidgeon
 - 👀 I’m interested in technology, music, video games, and youth education
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on simple projects to start out my journey
 - 📫 How to reach me kap0806@gmail.com
 
